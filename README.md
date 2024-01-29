@@ -1,16 +1,19 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
+</p>
+<hr>
+<h1 align="center">¡Hola, Soy Matias Ibarra!</h1>
+<Br>
+<h1>Sobre mi:</h1>
 
-<!--
-**Matias-Ibarra/Matias-Ibarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌎 Argentino / Italiano.
+- Data Scientist 💻 | Profesor de Matemática en Educación Secundaria 🎓.
+- En búsqueda de mi primera experiencia laboral en el área de datos 🔎.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<Br>
+<h1 align="center">Contacto 📬:</h1>
+<Br>
+<p align="center">
+<a href="https://www.linkedin.com/in/matias-ibarra92" target="blank"><img align="center" src="https://img.shields.io/badge/Matias%20Ibarra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:matiasezibarra@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/matiasezibarra@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
