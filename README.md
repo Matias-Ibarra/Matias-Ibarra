@@ -33,3 +33,16 @@
   
 <Br>
 <hr>
+<Br>
+<h1>Mis proyectos 🎨:</h1>
+<Br>
+  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Matias-Ibarra&repo=datos)](https://github.com/Matias-Ibarra/datos)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Matias-Ibarra&repo=hlf_matias_ibarra)](https://github.com/Matias-Ibarra/hlf_matias_ibarra)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Matias-Ibarra&repo=Messi)](https://github.com/Matias-Ibarra/Messi)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Matias-Ibarra&repo=Normalizacion_BBDD)](https://github.com/Matias-Ibarra/Normalizacion_BBDD)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Matias-Ibarra&repo=Proyecto_ML)](https://github.com/Matias-Ibarra/Proyecto_ML)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Matias-Ibarra&repo=CompetiEmo)](https://github.com/Matias-Ibarra/CompetiEmo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Matias-Ibarra&repo=app_consultas_ChatGPT)](https://github.com/Matias-Ibarra/app_consultas_ChatGPT)
+
+<Br>
