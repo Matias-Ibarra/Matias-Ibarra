@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola, Soy Matias Ibarra!
 
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Bienvenido+a+mi+perfil+de+Github"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Bienvenid@+a+mi+perfil+de+Github"></a>
 </p>
 <Br>
 <h1>Sobre mi:</h1>
