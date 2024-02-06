@@ -43,5 +43,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Matias-Ibarra&repo=Proyecto_ML)](https://github.com/Matias-Ibarra/Proyecto_ML)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Matias-Ibarra&repo=CompetiEmo)](https://github.com/Matias-Ibarra/CompetiEmo)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Matias-Ibarra&repo=app_consultas_ChatGPT)](https://github.com/Matias-Ibarra/app_consultas_ChatGPT)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Matias-Ibarra&repo=PowerBI_cafeteria)](https://github.com/Matias-Ibarra/PowerBI_cafeteria)
 
 <Br>
